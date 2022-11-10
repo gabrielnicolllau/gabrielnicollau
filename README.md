@@ -2,7 +2,7 @@
 
   ##
 
-              Tenho foco na linguagem python 🐍, mas sempre estou de olho em outras linguagens e tecnologias...
+            Atualmente estudnado python 🐍, mas sempre estou de olho em outras linguagens e tecnologias...
 <!--Comando para ver status do GitHub--> 
 <br> 
 <div align="center">
