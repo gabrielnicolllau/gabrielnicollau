@@ -7,8 +7,8 @@
 <br> 
 <div align="center">
   <a href="https://github.com/gabrielnicollau">
-  <img img width="50%" src="https://github-readme-stats.vercel.app/api?username=gabrielnicollau&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnicollau&layout=compact&langs_count=7&theme=algolia"/>
+  <img img width="42%" src="https://github-readme-stats.vercel.app/api?username=gabrielnicollau&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnicollau&layout=compact&langs_count=7&theme=algolia"/>
 </div></br>
 
 <!--Imagens das linguagens-->
