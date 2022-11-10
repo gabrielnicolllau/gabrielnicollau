@@ -2,7 +2,7 @@
 
   ##
 
-            Atualmente estudnado python 🐍, mas sempre estou de olho em outras linguagens e tecnologias...
+            Atualmente estudando python 🐍, mas sempre estou de olho em outras linguagens e tecnologias...
 <!--Comando para ver status do GitHub--> 
 <br> 
 <div align="center">
@@ -17,7 +17,7 @@
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://favpng.com/png_view/sonic-pixel-art-sonic-the-hedgehog-2-minecraft-pixel-art-png/iLPtcPSe">
+  <img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/1zR7Y6CjojrizK8ICD/giphy.gif">
 </div>
 
   ##
