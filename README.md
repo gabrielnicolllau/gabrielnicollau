@@ -17,7 +17,7 @@
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/sonic-like-thumbs-up-ok-okay-gif-16301030">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://favpng.com/png_view/sonic-pixel-art-sonic-the-hedgehog-2-minecraft-pixel-art-png/iLPtcPSe">
 </div>
 
   ##
