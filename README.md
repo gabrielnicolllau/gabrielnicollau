@@ -17,7 +17,7 @@
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://www.google.com/url?sa=i&url=https%3A%2F%2Fciadosgifs.blogspot.com%2F2015%2F11%2Ffoguetes.html&psig=AOvVaw0N59FhCC94kqZemO9J9V7A&ust=1668178054761000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDO-9Tto_sCFQAAAAAdAAAAABAJ)](https://ciadosgifs.blogspot.com/2015/11/foguetes.html)">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/sonic-like-thumbs-up-ok-okay-gif-16301030">
 </div>
 
   ##
