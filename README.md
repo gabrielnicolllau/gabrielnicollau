@@ -2,7 +2,8 @@
 
   ##
 
-            Atualmente estou estudando Java ☕, mas já estudei Python, e um pouco de JavaScripit, HTML e CSS. Sempre estou de olho em outras linguagens e tecnologias...
+            Atualmente estou estudando Java ☕, mas já estudei Python, e um pouco de JavaScripit, HTML e CSS. Sempre estou de olho em outras 
+            linguagens e tecnologias...
 <!--Comando para ver status do GitHub--> 
 <br> 
 <div align="center">
